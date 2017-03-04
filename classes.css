@@ -19,18 +19,26 @@ a { /* Comment */ color: /* Comment */ Red; }
 		text-align:center;
 	}
 	body{
-		background-color: linen;
+		background-image: url("background1.png");
 	}
 	
-	table{
+	.navtable{
 		width: 100%;
 		text-align:center;
 		font-size:1.5em;
 		
 	}
+	
+	
 	.link{
 		
 	}
 	a{
 		color: black;
+	}
+	
+	.rcontent{
+	    display:block;
+		margin-left: 70%;
+		from-top: 10%;
 	}
