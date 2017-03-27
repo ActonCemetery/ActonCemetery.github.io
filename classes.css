@@ -13,9 +13,11 @@ a { /* Comment */ color: /* Comment */ Red; }
 		font-family:"Freebooter Script", Serif;
 		text-align:center;
 		font-size: 1.5em;
+		
 	}
 	.footer{
-		from-top:90%;
+	position: fixed;
+		from-top: 90%;
 		text-align:center;
 	}
 	body{
@@ -29,6 +31,23 @@ a { /* Comment */ color: /* Comment */ Red; }
 		
 	}
 	
+/*	.btable{
+		
+		width: 100%;
+		 opacity:0.50; 
+		 filter:Alpha(Opacity=50);
+		 background-color:darkblue;
+		 from-top: 495px;
+		 z-index: -1;
+		 position: absolute;
+	}
+	
+	.ftable{
+		from-top: 500px;
+		z-index: 1;
+		position: absolute;
+	
+	} */
 	
 	.link{
 		
@@ -46,4 +65,6 @@ a { /* Comment */ color: /* Comment */ Red; }
 	
 		text-align:center;
 		font-size:1.5em;
+		
 	}
+	
